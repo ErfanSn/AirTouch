@@ -1,6 +1,6 @@
 [versions]
 androidGradlePlugin = "8.5.0"
-kotlin = "2.0.0"
+kotlin = "2.1.10"
 androidxCore = "1.13.1"
 androidxConcurrentFutures = "1.2.0"
 androidxLifecycle = "2.8.2"
